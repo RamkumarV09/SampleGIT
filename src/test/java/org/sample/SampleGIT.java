@@ -16,5 +16,18 @@ public class SampleGIT {
 
 		System.out.println("Meth 3");
 	}
+	
+	private void fridge() {
+
+		System.out.println("Fridge");
+	}
+	private void washingMachine() {
+
+		System.out.println("Washing Machine");
+	}
+	private void ac() {
+
+		System.out.println("AC");
+	}
 
 }
