@@ -16,5 +16,15 @@ public class SampleGIT {
 
 		System.out.println("Meth 3");
 	}
+	
+	private void fan() {
+
+		System.out.println("fan");
+	}
+	
+	private void tubeLight() {
+
+		System.out.println("Tubelight");
+	}
 
 }
